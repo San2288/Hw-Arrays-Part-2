@@ -34,7 +34,6 @@ public class Main {
         System.out.println("Средняя сумма трат за месяц составила " + String.format("%.2f", averageCost) + " рублей");
         System.out.println();
 
-
         // Задание 4
         System.out.println("Задание 4");
         char[] reverseFullName = {'n', 'a', 'v', 'I', ' ', 'v', 'o', 'n', 'a', 'v', 'I'};
